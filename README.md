@@ -1,4 +1,4 @@
-# 🖼️ Card Blend Picture
+# 📸 Card Blend Picture
 
 A stylish visual effect where an image subtly blends into view beneath a card. Built with modern CSS, this component enhances the aesthetics of portfolios, galleries, and landing pages with smooth transitions and elegant layering.
 
